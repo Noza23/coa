@@ -17,6 +17,10 @@ knitr::opts_chunk$set(
 
 coa introduces compound assignment operators
 
+<!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/coa)](https://CRAN.R-project.org/package=coa)
+<!-- badges: end -->
+
 ## Installation
 
 You can install the development version of coa using:

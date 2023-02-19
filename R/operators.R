@@ -88,10 +88,9 @@
 #' @param r what to add. atomic vector
 #' @examples
 #' x <- 1:5
-#' y <- letters[1:4]
+#' y <- c("a", "b", "c")
 #' x %c=% 6:10
-#' y %/=% letters[-c(1:4)]
-#' y %/=% y
+#' y %c=% c("d", "e")
 #' @export
 `%c=%` = function(l, r) {
   assert_atomic(l)
@@ -119,7 +118,7 @@
 }
 
 #' @title Decrement by one
-#' 
+#' @name minus-minus
 #' @description
 #' equivalent of l %-=% 1
 #' 
