@@ -1,4 +1,3 @@
-^LICENSE$
 ^README.html$
 ^README\.Rmd$
 ^.*\.Rproj$
@@ -19,3 +18,5 @@
 ^pkgdown$
 ^revdep$
 ^CITATION.cff$
+^LICENSE\.md$
+^.Rd

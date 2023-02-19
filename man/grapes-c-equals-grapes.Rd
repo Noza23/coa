@@ -16,8 +16,7 @@ Simple Concatinate assignment operator
 }
 \examples{
 x <- 1:5
-y <- letters[1:4]
+y <- c("a", "b", "c")
 x \%c=\% 6:10
-y \%/=\% letters[-c(1:4)]
-y \%/=\% y
+y \%c=\% c("d", "e")
 }
