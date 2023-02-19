@@ -20,3 +20,4 @@
 ^CITATION.cff$
 ^LICENSE\.md$
 ^.Rd
+^codecov\.yml$

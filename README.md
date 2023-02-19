@@ -5,6 +5,15 @@
 
 coa introduces compound assignment operators
 
+<!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Noza23/coa/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Noza23/coa/actions/workflows/R-CMD-check.yaml)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Codecov test
+coverage](https://codecov.io/gh/Noza23/coa/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Noza23/coa?branch=main)
+<!-- badges: end -->
+
 ## Installation
 
 You can install the development version of coa using:
