@@ -18,5 +18,6 @@ Simple add assignment operator
 x <- 1:10
 y <- 5
 x \%+=\% 10
+x \%+=\% y
 y \%+=\% 10
 }

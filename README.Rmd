@@ -31,7 +31,14 @@ This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(coa)
-## basic example code
+x <- 10
+print(x %+=% 1)
+print(x %-=% 5)
+print(x %*=% 2)
+print(x %/=% 5)
+print(x %c=% 1:5)
+print(`++`(x))
+print(`--`(x))
 ```
 
 
