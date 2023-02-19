@@ -8,5 +8,6 @@
 
 library(testthat)
 library(coa)
+library("checkmate")
 
 test_check("coa")
